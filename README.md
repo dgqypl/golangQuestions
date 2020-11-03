@@ -10,3 +10,6 @@
 
 [结构体与接口类型2](/结构体与接口类型2.md)
 
+[goroutine](/goroutine.md)
+
+[带range子句的for语句](/带range子句的for语句.md)
